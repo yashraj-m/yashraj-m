@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding backend to the frontend project of cloning zoomcars](https://medium.com/@yashrajmaheshwari15/adding-backend-to-the-frontend-project-of-cloning-zoomcars-4869d63fa04a?source=rss-e8ce461cc5bd------2)
+- [Cloning Lumen5 website in 7 days using HTML, CSS and JavaScript](https://medium.com/@yashrajmaheshwari15/cloning-lumen5-website-in-7-days-using-html-css-and-javascript-45badd56f2bb?source=rss-e8ce461cc5bd------2)
+- [Cloning Shopper Stop website in 7 days using HTML, CSS and JavaScript](https://medium.com/@yashrajmaheshwari15/cloning-shopper-stop-website-in-7-days-using-html-css-and-javascript-6cbd6bdc8d1?source=rss-e8ce461cc5bd------2)
 <!-- BLOG-POST-LIST:END -->
 
 
